@@ -40,3 +40,37 @@ the sake of identity of each client.
 We will require two scripts to establish this chat room. One to keep the
 server running, and another that every client should run in order to
 connect to the server 
+
+
+# Server Prompt
+
+![1](https://user-images.githubusercontent.com/50981076/70706867-d50da900-1cfc-11ea-982a-b453b1d86ee0.png)
+
+# Login and register Prompt
+
+![2](https://user-images.githubusercontent.com/50981076/70706869-d5a63f80-1cfc-11ea-8ac1-988c211e7eb2.png)
+
+# LOGIN / REGISTER
+
+![3](https://user-images.githubusercontent.com/50981076/70706870-d5a63f80-1cfc-11ea-8b98-3ab770bb99f5.png)
+
+# REGISTER
+
+![4](https://user-images.githubusercontent.com/50981076/70706871-d5a63f80-1cfc-11ea-9dae-dc5097208419.png)
+
+# LOGIN
+
+![5](https://user-images.githubusercontent.com/50981076/70706872-d63ed600-1cfc-11ea-8895-c3068e1a7634.png)
+
+# Login Successfull
+
+![6](https://user-images.githubusercontent.com/50981076/70706873-d63ed600-1cfc-11ea-9f2d-894fc94ba6bd.png)
+
+# Messanger
+
+![7](https://user-images.githubusercontent.com/50981076/70706874-d6d76c80-1cfc-11ea-86c5-0c8ee3f25b1d.png)
+
+# Chatting Start 
+![8](https://user-images.githubusercontent.com/50981076/70706875-d6d76c80-1cfc-11ea-9d29-951a1c45d283.png)
+
+![9](https://user-images.githubusercontent.com/50981076/70706876-d6d76c80-1cfc-11ea-85ea-828e1b0541b4.png)
