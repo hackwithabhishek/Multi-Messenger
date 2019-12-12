@@ -18,3 +18,25 @@ address to the address of the server on which it is supposed to run.),
 then execute the ‘client.py’(guess what? Samething here .But you will
 have to add the server address in the connect() function here).
 Of course you can have all of them running on the same system. 
+
+# BACKGROUND
+Our project is a simple Chat Room server and allow multiple clients to
+connect to it using a client side script. The code uses the concept of
+sockets and threading.
+# Socket programming
+Sockets can be thought of as end points in a communication channel
+that is bi directional, and establishes communication between a server
+and one or more clients. Here, we setup a socket on each end and allow
+a client to interact with other clients via the server. The socket on the
+server side associates itself with some hardware port on the server side.
+Any client that has a socket associated with the same port can
+communicate with the server socket .
+# Multi Threading
+A thread is sub process that runs a set of commands individually of any
+other thread. So, every time a user connects to the server, a separate
+thread is created for that user and communication from server to client
+takes place along individual threads based on socket objects created for
+the sake of identity of each client.
+We will require two scripts to establish this chat room. One to keep the
+server running, and another that every client should run in order to
+connect to the server 
