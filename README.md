@@ -72,5 +72,4 @@ connect to the server
 
 # Chatting Start 
 ![8](https://user-images.githubusercontent.com/50981076/70706875-d6d76c80-1cfc-11ea-9d29-951a1c45d283.png)
-
 ![9](https://user-images.githubusercontent.com/50981076/70706876-d6d76c80-1cfc-11ea-85ea-828e1b0541b4.png)
